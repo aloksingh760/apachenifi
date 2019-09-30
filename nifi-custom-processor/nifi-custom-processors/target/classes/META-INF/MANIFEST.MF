@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: nifi-custom-processors
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: 141880
+Specification-Vendor: Apache NiFi Project
+Specification-Title: nifi-custom-processors
+Implementation-Vendor-Id: com.nifi.custom
+Build-Jdk: 1.8.0_151
+Specification-Version: 1.0
+Implementation-URL: http://nifi.apache.org/nifi-nar-bundles/nifi-custo
+ m-processor/nifi-custom-processors
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Apache NiFi Project
+
